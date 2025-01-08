@@ -42,8 +42,8 @@ theme_set(theme_minimal(base_size = 12))
 
 Raw data files can be found at:
 
-<https://stacyderuiter.github.io/mammal-breath-rate/data/breath-rate-FINAL-clean.csv>
-<https://stacyderuiter.github.io/mammal-breath-rate/data/additional-species.xlsx>
+<https://stacyderuiter.github.io/breath-allometry/data/breath-rate-FINAL-clean.csv>
+<https://stacyderuiter.github.io/breath-allometry/data/additional-species.xlsx>
 
 # Analysis
 
