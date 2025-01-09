@@ -27,9 +27,9 @@ knitr::opts_chunk$set(
   # folder where images will be saved
   fig.path = 'figures/breath-rate-',
   # file type for image files (can also be eps, jpeg, ...)
-  dev = 'png',
+  dev = c('png', 'tiff', 'postscript'),
   # resolution for image files
-  dpi = 600,
+  dpi = 300,
   warning = FALSE,
   message = FALSE,
   fig.width = 6.5, 
@@ -205,7 +205,7 @@ mortola <- read_excel('data/additional-species.xlsx',
          across(c(common_name, habitat), str_to_title))
 ```
 
-```{r, data-plus-model-static}
+```{r, data-plus-model-static-with-n}
 colrs <- c('black', 'grey70')
 log_preds <- ggpredict(breath_model,
                            terms = c('log_Mb', 'habitat', 'location'),
@@ -252,8 +252,9 @@ gf_point(breath_rate ~ body_mass, color = ~location,
          data = breath_data,
          alpha = 0.6
          ) |>
-  gf_facet_grid(~habitat,
-                labeller = labeller(habitat = habitat_labs)) |>
+  gf_facet_grid(~habitat ,
+                labeller = labeller(habitat = habitat_labs)
+                ) |>
   # with log scales on both axes
   gf_refine(scale_x_log10(), scale_y_log10(),
             scale_color_manual("", values = colrs)) |>
@@ -278,16 +279,18 @@ gf_point(breath_rate ~ body_mass, color = ~location,
           linetype = ~location,
           data = natural_preds,
     inherit = FALSE) |>
-  gf_facet_grid(~habitat,
-                labeller = labeller(habitat = habitat_labs)) |>
+  gf_facet_grid(~habitat ,
+                 labeller = labeller(habitat = habitat_labs)
+                ) |>
   gf_ribbon(conf_low + conf_hi ~ mass | habitat,
             linetype = ~location, 
             # fill = ~location,
             data = natural_preds,
             inherit = FALSE,
             alpha = 0.2) |>
-  gf_facet_grid(~habitat,
-                labeller = labeller(habitat = habitat_labs)) |>
+  gf_facet_grid(~habitat ,
+                labeller = labeller(habitat = habitat_labs)
+               ) |>
   gf_refine(guides(color = 'none', linetype = 'none'))
 ```
 
