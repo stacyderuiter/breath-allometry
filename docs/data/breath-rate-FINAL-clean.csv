@@ -7,12 +7,12 @@ log_fr,log_Mb,habitat,order,family,genus,species,breath_rate,body_mass,sex,activ
 1.072,2.041,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,11.80320636,110,M,2,Leon,Addax Antelope,7,14.4,Air,N/A,-4C to 45 C
 1.009,2.041,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,10.20939484,110,M,2,Leon,Addax Antelope,7,14.4,Air,N/A,-4C to 45 C
 1.054,2.041,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,11.32400363,110,M,2,Leon,Addax Antelope,7,14.8,Air,N/A,-4C to 45 C
-1.176,1.987,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,14.99684836,97,F,1,Tã�Rna,Addax Antelope,6,12,Air,N/A,-4C to 45 C
-1.204,1.987,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,15.99558029,97,F,1,Tã�Rna,Addax Antelope,6,12,Air,N/A,-4C to 45 C
-1.067,1.954,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,11.66809617,90,F,1,Tã�Rna,Addax Antelope,7,14.4,Air,N/A,-4C to 45 C
-1.057,1.954,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,11.40249788,90,F,1,Tã�Rna,Addax Antelope,7,14.4,Air,N/A,-4C to 45 C
-0.964,1.954,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,9.204495718,90,F,1,Tã�Rna,Addax Antelope,7,14.4,Air,N/A,-4C to 45 C
-1.054,1.954,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,11.32400363,90,F,1,Tã�Rna,Addax Antelope,7,14.8,Air,N/A,-4C to 45 C
+1.176,1.987,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,14.99684836,97,F,1,Tãrna,Addax Antelope,6,12,Air,N/A,-4C to 45 C
+1.204,1.987,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,15.99558029,97,F,1,Tãrna,Addax Antelope,6,12,Air,N/A,-4C to 45 C
+1.067,1.954,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,11.66809617,90,F,1,Tãrna,Addax Antelope,7,14.4,Air,N/A,-4C to 45 C
+1.057,1.954,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,11.40249788,90,F,1,Tãrna,Addax Antelope,7,14.4,Air,N/A,-4C to 45 C
+0.964,1.954,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,9.204495718,90,F,1,Tãrna,Addax Antelope,7,14.4,Air,N/A,-4C to 45 C
+1.054,1.954,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,11.32400363,90,F,1,Tãrna,Addax Antelope,7,14.8,Air,N/A,-4C to 45 C
 1.391,1.915,Terrestrial,Artiodactyla,Camelidae,Vicugna,pacos,24.60367604,82.2,M,2,Al,Alpaca,7,21,Air,10C to 20C,-20C to 20C
 1.373,1.915,Terrestrial,Artiodactyla,Camelidae,Vicugna,pacos,23.60478233,82.2,M,2,Al,Alpaca,7,19,Air,10C to 20C,-20C to 20C
 1.322,1.915,Terrestrial,Artiodactyla,Camelidae,Vicugna,pacos,20.98939884,82.2,M,2,Al,Alpaca,7,19,Air,10C to 20C,-20C to 20C
@@ -230,9 +230,9 @@ log_fr,log_Mb,habitat,order,family,genus,species,breath_rate,body_mass,sex,activ
 0.146,2.197,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,157.5,F,1,Fenah,Bottlenose Dolphin,15,22,Water,5C-25C,10C to 32C
 0.204,2.197,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,157.5,F,1,Fenah,Bottlenose Dolphin,15,22,Water,5C-25C,10C to 32C
 0.255,2.197,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,157.5,F,1,Fenah,Bottlenose Dolphin,15,22,Water,5C-25C,10C to 32C
-0.255,2.013,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,103,M,1,Fã�Nix,Bottlenose Dolphin,11,27.8,Water,5C-25C,10C to 32C
-0.255,2.013,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,103,M,1,Fã�Nix,Bottlenose Dolphin,11,27.9,Water,5C-25C,10C to 32C
-0.204,2.013,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,103,M,1,Fã�Nix,Bottlenose Dolphin,11,28.4,Water,5C-25C,10C to 32C
+0.255,2.013,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,103,M,1,Fãnix,Bottlenose Dolphin,11,27.8,Water,5C-25C,10C to 32C
+0.255,2.013,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,103,M,1,Fãnix,Bottlenose Dolphin,11,27.9,Water,5C-25C,10C to 32C
+0.204,2.013,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,103,M,1,Fãnix,Bottlenose Dolphin,11,28.4,Water,5C-25C,10C to 32C
 0.204,2.114,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,130,M,2,Fernando,Bottlenose Dolphin,9,30.2,Water,5C-25C,10C to 32C
 0.301,2.114,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,130,M,2,Fernando,Bottlenose Dolphin,9,30.3,Water,5C-25C,10C to 32C
 0.301,2.114,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,130,M,2,Fernando,Bottlenose Dolphin,9,30.4,Water,5C-25C,10C to 32C
@@ -348,9 +348,9 @@ log_fr,log_Mb,habitat,order,family,genus,species,breath_rate,body_mass,sex,activ
 0.301,2.152,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,142,M,2,Leo,Bottlenose Dolphin,11,19.4,Water,5C-25C,10C to 32C
 0.255,2.152,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,142,M,1,Leo,Bottlenose Dolphin,11,19.8,Water,5C-25C,10C to 32C
 0.447,2.152,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.79898132,142,M,2,Leo,Bottlenose Dolphin,11,19.2,Water,5C-25C,10C to 32C
-0.255,2.342,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,220,M,1,Lã�Tus,Bottlenose Dolphin,28,19.2,Water,5C-25C,10C to 32C
-0.255,2.342,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,220,M,1,Lã�Tus,Bottlenose Dolphin,28,20.3,Water,5C-25C,10C to 32C
-0.079,2.342,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,220,M,1,Lã�Tus,Bottlenose Dolphin,28,20.7,Water,5C-25C,10C to 32C
+0.255,2.342,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,220,M,1,Lãtus,Bottlenose Dolphin,28,19.2,Water,5C-25C,10C to 32C
+0.255,2.342,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,220,M,1,Lãtus,Bottlenose Dolphin,28,20.3,Water,5C-25C,10C to 32C
+0.079,2.342,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,220,M,1,Lãtus,Bottlenose Dolphin,28,20.7,Water,5C-25C,10C to 32C
 0.204,2.255,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,180,F,1,Lua,Bottlenose Dolphin,27,20.2,Water,5C-25C,10C to 32C
 0.204,2.255,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,180,F,1,Lua,Bottlenose Dolphin,27,20.8,Water,5C-25C,10C to 32C
 0.342,2.255,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,180,F,3,Lua,Bottlenose Dolphin,27,21.1,Water,5C-25C,10C to 32C
@@ -491,18 +491,18 @@ log_fr,log_Mb,habitat,order,family,genus,species,breath_rate,body_mass,sex,activ
 0.301,2.386,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,243,F,2,Panama,Bottlenose Dolphin,29,31,Water,5C-25C,10C to 32C
 0.079,2.386,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,243,F,2,Panama,Bottlenose Dolphin,29,31,Water,5C-25C,10C to 32C
 0.255,2.386,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,243,F,2,Panama,Bottlenose Dolphin,29,31,Water,5C-25C,10C to 32C
-0.146,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,156,F,1,Pã�Rla,Bottlenose Dolphin,11,22,Water,5C-25C,10C to 32C
-0.301,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,156,F,1,Pã�Rla,Bottlenose Dolphin,11,22,Water,5C-25C,10C to 32C
-0.146,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,156,F,1,Pã�Rla,Bottlenose Dolphin,11,22,Water,5C-25C,10C to 32C
-0.255,2.196,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,157,F,1,Pã�Rla,Bottlenose Dolphin,11,21,Water,5C-25C,10C to 32C
-0.255,2.196,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,157,F,1,Pã�Rla,Bottlenose Dolphin,11,21,Water,5C-25C,10C to 32C
-0.255,2.196,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,157,F,1,Pã�Rla,Bottlenose Dolphin,11,21,Water,5C-25C,10C to 32C
-0.079,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,156,F,1,Pã�Rla,Bottlenose Dolphin,11,22.4,Water,5C-25C,10C to 32C
-0.255,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,156,F,1,Pã�Rla,Bottlenose Dolphin,11,22.4,Water,5C-25C,10C to 32C
-0.146,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,156,F,1,Pã�Rla,Bottlenose Dolphin,11,22.4,Water,5C-25C,10C to 32C
-0.204,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,156,F,1,Pã�Rla,Bottlenose Dolphin,11,22,Water,5C-25C,10C to 32C
-0.255,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,156,F,1,Pã�Rla,Bottlenose Dolphin,11,22,Water,5C-25C,10C to 32C
-0.301,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,156,F,1,Pã�Rla,Bottlenose Dolphin,11,22,Water,5C-25C,10C to 32C
+0.146,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,156,F,1,Pãrla,Bottlenose Dolphin,11,22,Water,5C-25C,10C to 32C
+0.301,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,156,F,1,Pãrla,Bottlenose Dolphin,11,22,Water,5C-25C,10C to 32C
+0.146,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,156,F,1,Pãrla,Bottlenose Dolphin,11,22,Water,5C-25C,10C to 32C
+0.255,2.196,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,157,F,1,Pãrla,Bottlenose Dolphin,11,21,Water,5C-25C,10C to 32C
+0.255,2.196,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,157,F,1,Pãrla,Bottlenose Dolphin,11,21,Water,5C-25C,10C to 32C
+0.255,2.196,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,157,F,1,Pãrla,Bottlenose Dolphin,11,21,Water,5C-25C,10C to 32C
+0.079,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,156,F,1,Pãrla,Bottlenose Dolphin,11,22.4,Water,5C-25C,10C to 32C
+0.255,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,156,F,1,Pãrla,Bottlenose Dolphin,11,22.4,Water,5C-25C,10C to 32C
+0.146,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,156,F,1,Pãrla,Bottlenose Dolphin,11,22.4,Water,5C-25C,10C to 32C
+0.204,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,156,F,1,Pãrla,Bottlenose Dolphin,11,22,Water,5C-25C,10C to 32C
+0.255,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,156,F,1,Pãrla,Bottlenose Dolphin,11,22,Water,5C-25C,10C to 32C
+0.301,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,156,F,1,Pãrla,Bottlenose Dolphin,11,22,Water,5C-25C,10C to 32C
 0.301,2.125,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,133.5,F,1,Peach,Bottlenose Dolphin,8,22,Water,5C-25C,10C to 32C
 0.255,2.125,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,133.5,F,1,Peach,Bottlenose Dolphin,8,22,Water,5C-25C,10C to 32C
 0.255,2.125,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,133.5,F,1,Peach,Bottlenose Dolphin,8,22,Water,5C-25C,10C to 32C
@@ -643,18 +643,18 @@ log_fr,log_Mb,habitat,order,family,genus,species,breath_rate,body_mass,sex,activ
 0.125,2.97,Aquatic,Artiodactyla,Delphinidae,Pseudorca,crassidens,1.333521432,933,M,1,Tida,False Killer Whale,NA,21.8,Water,N/A,22C-30C
 0.146,2.97,Aquatic,Artiodactyla,Delphinidae,Pseudorca,crassidens,1.399587323,933,M,1,Tida,False Killer Whale,NA,21.8,Water,N/A,22C-30C
 0.39,2.97,Aquatic,Artiodactyla,Delphinidae,Pseudorca,crassidens,2.454708916,933,M,2,Tida,False Killer Whale,NA,22,Water,N/A,22C-30C
-0.699,2.978,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,5.00034535,950,M,1,Garp,Giraffee,17,14.4,Air,15C-30C,10C-40C
-0.869,2.978,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,7.396052751,950,M,1,Garp,Giraffee,17,14,Air,15C-30C,10C-40C
-0.462,2.978,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,2.897343588,950,M,1,Garp,Giraffee,17,14.5,Air,15C-30C,10C-40C
-0.973,2.875,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,9.397233106,750,F,1,Marilyn,Giraffee,17,14.4,Air,15C-30C,10C-40C
-0.924,2.875,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,8.394599865,750,F,1,Marilyn,Giraffee,17,14,Air,15C-30C,10C-40C
-0.672,2.875,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,4.698941086,750,F,1,Marilyn,Giraffee,17,14.5,Air,15C-30C,10C-40C
-0.778,2.954,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,5.997910763,900,M,1,Merkurius,Giraffee,8,14.4,Air,15C-30C,10C-40C
-0.869,2.954,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,7.396052751,900,M,1,Merkurius,Giraffee,8,14,Air,15C-30C,10C-40C
-0.82,2.954,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,6.60693448,900,M,1,Merkurius,Giraffee,8,14.5,Air,15C-30C,10C-40C
-0.903,2.813,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,7.99834255,650,F,1,Norma,Giraffee,5,14.4,Air,15C-30C,10C-40C
-0.857,2.813,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,7.19448978,650,F,1,Norma,Giraffee,5,14,Air,15C-30C,10C-40C
-0.97,2.813,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,9.332543008,650,F,1,Norma,Giraffee,5,14.5,Air,15C-30C,10C-40C
+0.699,2.978,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,5.00034535,950,M,1,Garp,Giraffe,17,14.4,Air,15C-30C,10C-40C
+0.869,2.978,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,7.396052751,950,M,1,Garp,Giraffe,17,14,Air,15C-30C,10C-40C
+0.462,2.978,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,2.897343588,950,M,1,Garp,Giraffe,17,14.5,Air,15C-30C,10C-40C
+0.973,2.875,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,9.397233106,750,F,1,Marilyn,Giraffe,17,14.4,Air,15C-30C,10C-40C
+0.924,2.875,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,8.394599865,750,F,1,Marilyn,Giraffe,17,14,Air,15C-30C,10C-40C
+0.672,2.875,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,4.698941086,750,F,1,Marilyn,Giraffe,17,14.5,Air,15C-30C,10C-40C
+0.778,2.954,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,5.997910763,900,M,1,Merkurius,Giraffe,8,14.4,Air,15C-30C,10C-40C
+0.869,2.954,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,7.396052751,900,M,1,Merkurius,Giraffe,8,14,Air,15C-30C,10C-40C
+0.82,2.954,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,6.60693448,900,M,1,Merkurius,Giraffe,8,14.5,Air,15C-30C,10C-40C
+0.903,2.813,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,7.99834255,650,F,1,Norma,Giraffe,5,14.4,Air,15C-30C,10C-40C
+0.857,2.813,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,7.19448978,650,F,1,Norma,Giraffe,5,14,Air,15C-30C,10C-40C
+0.97,2.813,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,9.332543008,650,F,1,Norma,Giraffe,5,14.5,Air,15C-30C,10C-40C
 0.38,1.559,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,2.398832919,36.2,F,3,B,Harbor Porpoise,4,17,Water,5C-17C,5C-22C
 0.342,1.83,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,2.197859873,67.6,F,2,A,Harbor Porpoise,28,16,Water,5C-17C,5C-22C
 0.477,1.83,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,2.999162519,67.6,F,2,A,Harbor Porpoise,28,15,Water,5C-17C,5C-22C
@@ -700,15 +700,15 @@ log_fr,log_Mb,habitat,order,family,genus,species,breath_rate,body_mass,sex,activ
 -0.222,3.505,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,0.599791076,3200,F,1,Toki,Killer Whale,58,14,Water,N/A,-2C to 30C
 1.061,1.778,Terrestrial,Artiodactyla,Bovidae,Nanger,dama mhorr,11.50800389,60,M,1,Dexter,Mihor Gazelle,4,14.4,Air,N/A,0C to 45C
 1.247,1.653,Terrestrial,Artiodactyla,Bovidae,Nanger,dama mhorr,17.66037821,45,F,1,Un,Mihor Gazelle,3,14.8,Air,N/A,0C to 45C
-0.58,1.892,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,3.801893963,78,M,2,Elelo,Pacific White-Sided Dolphin,5,17,Water,6C-22C,10C to 20C
-0.38,1.892,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,2.398832919,78,M,2,Elelo,Pacific White-Sided Dolphin,5,17,Water,6C-22C,10C to 20C
-0.447,1.892,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,2.79898132,78,M,1,Elelo,Pacific White-Sided Dolphin,5,16.6,Water,6C-22C,10C to 20C
-0.301,2.025,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,1.99986187,106,M,2,Lii,Pacific White-Sided Dolphin,40,14.1,Water,6C-22C,10C to 20C
-0.447,2.025,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,2.79898132,106,M,2,Lii,Pacific White-Sided Dolphin,40,13.7,Water,6C-22C,10C to 20C
-0.342,2.025,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,2.197859873,106,M,2,Lii,Pacific White-Sided Dolphin,40,14,Water,6C-22C,10C to 20C
-0.643,1.982,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,4.395416154,96,F,2,Loke,Pacific White-Sided Dolphin,40,17,Water,6C-22C,10C to 20C
-0.301,1.982,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,1.99986187,96,F,2,Loke,Pacific White-Sided Dolphin,40,17,Water,6C-22C,10C to 20C
-0.477,1.982,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,2.999162519,96,F,1,Loke,Pacific White-Sided Dolphin,40,16.6,Water,6C-22C,10C to 20C
+0.58,1.892,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,3.801893963,78,M,2,Elelo,Pacific White Sided Dolphin,5,17,Water,6C-22C,10C to 20C
+0.38,1.892,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,2.398832919,78,M,2,Elelo,Pacific White Sided Dolphin,5,17,Water,6C-22C,10C to 20C
+0.447,1.892,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,2.79898132,78,M,1,Elelo,Pacific White Sided Dolphin,5,16.6,Water,6C-22C,10C to 20C
+0.301,2.025,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,1.99986187,106,M,2,Lii,Pacific White Sided Dolphin,40,14.1,Water,6C-22C,10C to 20C
+0.447,2.025,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,2.79898132,106,M,2,Lii,Pacific White Sided Dolphin,40,13.7,Water,6C-22C,10C to 20C
+0.342,2.025,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,2.197859873,106,M,2,Lii,Pacific White Sided Dolphin,40,14,Water,6C-22C,10C to 20C
+0.643,1.982,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,4.395416154,96,F,2,Loke,Pacific White Sided Dolphin,40,17,Water,6C-22C,10C to 20C
+0.301,1.982,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,1.99986187,96,F,2,Loke,Pacific White Sided Dolphin,40,17,Water,6C-22C,10C to 20C
+0.477,1.982,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,2.999162519,96,F,1,Loke,Pacific White Sided Dolphin,40,16.6,Water,6C-22C,10C to 20C
 0.103,2.23,Aquatic,Artiodactyla,Delphinidae,Feresa,attenuata,1.267651866,170,M,1,Mu,Pygmy Killer Whale,21,21.8,Water,N/A,22C to 30C
 0.146,2.23,Aquatic,Artiodactyla,Delphinidae,Feresa,attenuata,1.399587323,170,M,1,Mu,Pygmy Killer Whale,21,21.8,Water,N/A,22C to 30C
 0.301,2.23,Aquatic,Artiodactyla,Delphinidae,Feresa,attenuata,1.99986187,170,M,1,Mu,Pygmy Killer Whale,21,22,Water,N/A,22C to 30C
@@ -743,14 +743,14 @@ log_fr,log_Mb,habitat,order,family,genus,species,breath_rate,body_mass,sex,activ
 0.477,1.839,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,69,F,2,Chilli,California Sea Lion,24,29.3,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
 0.556,1.839,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.597493352,69,F,2,Chilli,California Sea Lion,24,23.4,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
 0.447,1.839,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.79898132,69,F,2,Chilli,California Sea Lion,24,26.4,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
-0.477,2.134,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,136,M,1,Andrã�,California Sea Lion,27,18.5,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
-0.663,2.134,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,4.602565736,136,M,2,Andrã�,California Sea Lion,27,18.6,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
-0.38,2.134,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.398832919,136,M,2,Andrã�,California Sea Lion,27,19.4,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
-0.146,2.322,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.399587323,210,M,2,Anã�Bis,California Sea Lion,20,18.8,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
-0.602,2.322,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.999447498,210,M,2,Anã�Bis,California Sea Lion,20,21,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
-0.342,2.322,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.197859873,210,M,2,Anã�Bis,California Sea Lion,20,20.5,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
-0.342,2.328,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.197859873,213,M,2,Anã�Bis,California Sea Lion,20,20.1,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
-0.531,2.328,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.396252726,213,M,1,Anã�Bis,California Sea Lion,20,16,Air,"10C to 23 C-water, 4C to 30C land",10C to 25C
+0.477,2.134,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,136,M,1,Andrã,California Sea Lion,27,18.5,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
+0.663,2.134,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,4.602565736,136,M,2,Andrã,California Sea Lion,27,18.6,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
+0.38,2.134,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.398832919,136,M,2,Andrã,California Sea Lion,27,19.4,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
+0.146,2.322,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.399587323,210,M,2,Anãºbis,California Sea Lion,20,18.8,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
+0.602,2.322,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.999447498,210,M,2,Anãºbis,California Sea Lion,20,21,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
+0.342,2.322,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.197859873,210,M,2,Anãºbis,California Sea Lion,20,20.5,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
+0.342,2.328,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.197859873,213,M,2,Anãºbis,California Sea Lion,20,20.1,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
+0.531,2.328,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.396252726,213,M,1,Anãºbis,California Sea Lion,20,16,Air,"10C to 23 C-water, 4C to 30C land",10C to 25C
 0.477,2.215,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,164,M,2,Berkley,California Sea Lion,5,27,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
 0.447,2.215,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.79898132,164,M,2,Berkley,California Sea Lion,5,26.4,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
 0.477,2.215,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,164,M,2,Berkley,California Sea Lion,5,26.5,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
@@ -775,11 +775,11 @@ log_fr,log_Mb,habitat,order,family,genus,species,breath_rate,body_mass,sex,activ
 0.477,2.439,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,275,M,2,Clyde,California Sea Lion,19,26.5,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
 0.301,2.439,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.99986187,275,M,2,Clyde,California Sea Lion,19,27.1,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
 0.58,2.439,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.801893963,275,M,2,Clyde,California Sea Lion,19,27.5,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
-0.342,1.996,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.197859873,99,F,2,Cã�Ris,California Sea Lion,23,19.4,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
-0.447,1.996,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.79898132,99,F,3,Cã�Ris,California Sea Lion,23,19.3,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
-0.342,1.996,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.197859873,99,F,2,Cã�Ris,California Sea Lion,23,20.1,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
-0.531,1.996,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.396252726,99,F,2,Cã�Ris,California Sea Lion,23,21.2,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
-0.477,1.996,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,99,F,1,Cã�Ris,California Sea Lion,23,16,Air,"10C to 23 C-water, 4C to 30C land",10C to 25C
+0.342,1.996,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.197859873,99,F,2,Cãris,California Sea Lion,23,19.4,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
+0.447,1.996,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.79898132,99,F,3,Cãris,California Sea Lion,23,19.3,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
+0.342,1.996,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.197859873,99,F,2,Cãris,California Sea Lion,23,20.1,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
+0.531,1.996,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.396252726,99,F,2,Cãris,California Sea Lion,23,21.2,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
+0.477,1.996,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,99,F,1,Cãris,California Sea Lion,23,16,Air,"10C to 23 C-water, 4C to 30C land",10C to 25C
 0.342,2.253,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.197859873,179,M,2,Gonzo,California Sea Lion,14,13,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
 0.415,2.252,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.600159563,178.8,M,2,Gonzo,California Sea Lion,14,13,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
 0.415,2.255,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.600159563,179.8,M,2,Gonzo,California Sea Lion,14,13,Water,"10C to 23 C-water, 4C to 30C land",10C to 25C
@@ -942,9 +942,9 @@ log_fr,log_Mb,habitat,order,family,genus,species,breath_rate,body_mass,sex,activ
 0.58,1.892,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.801893963,78,M,2,Eddie,Harbor Seal,27,19.2,Water,-2C to 20C water,"-2 to 25C - water, -10C to 25C land"
 0.342,1.892,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.197859873,78,M,2,Eddie,Harbor Seal,27,20,Water,-2C to 20C water,"-2 to 25C - water, -10C to 25C land"
 0.38,1.892,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.398832919,78,M,2,Eddie,Harbor Seal,27,20.4,Water,-2C to 20C water,"-2 to 25C - water, -10C to 25C land"
-0.38,1.763,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.398832919,58,M,2,Fã�Lix,Harbor Seal,6,20,Water,-2C to 20C water,"-2 to 25C - water, -10C to 25C land"
-0.477,1.763,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.999162519,58,M,2,Fã�Lix,Harbor Seal,6,20,Water,-2C to 20C water,"-2 to 25C - water, -10C to 25C land"
-0.58,1.763,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.801893963,58,M,2,Fã�Lix,Harbor Seal,6,20.6,Water,-2C to 20C water,"-2 to 25C - water, -10C to 25C land"
+0.38,1.763,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.398832919,58,M,2,Fãlix,Harbor Seal,6,20,Water,-2C to 20C water,"-2 to 25C - water, -10C to 25C land"
+0.477,1.763,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.999162519,58,M,2,Fãlix,Harbor Seal,6,20,Water,-2C to 20C water,"-2 to 25C - water, -10C to 25C land"
+0.58,1.763,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.801893963,58,M,2,Fãlix,Harbor Seal,6,20.6,Water,-2C to 20C water,"-2 to 25C - water, -10C to 25C land"
 0.079,1.968,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1.199499303,93,M,1,Halifax,Harbor Seal,11,8.9,Water,-2C to 20C water,"-2 to 25C - water, -10C to 25C land"
 0.204,1.968,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1.599558029,93,M,1,Halifax,Harbor Seal,11,10.2,Water,-2C to 20C water,"-2 to 25C - water, -10C to 25C land"
 0.342,1.968,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.197859873,93,M,1,Halifax,Harbor Seal,11,11,Water,-2C to 20C water,"-2 to 25C - water, -10C to 25C land"
@@ -1072,11 +1072,11 @@ log_fr,log_Mb,habitat,order,family,genus,species,breath_rate,body_mass,sex,activ
 0.602,1.597,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.999447498,39.5,M,1,Muskot,South African Fur Seal,4,8,Air,N/A,10C to 20C in water and 5C to 30C on land
 0.556,1.597,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.597493352,39.5,M,1,Muskot,South African Fur Seal,4,16,Air,N/A,10C to 20C in water and 5C to 30C on land
 0.477,1.602,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,2.999162519,40,M,1,Muskot,South African Fur Seal,4,25,Air,N/A,10C to 20C in water and 5C to 30C on land
-0.301,1.756,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,1.99986187,57,F,1,Sã�Ly,South African Fur Seal,10,8,Air,N/A,10C to 20C in water and 5C to 30C on land
-0.255,1.756,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,1.798870915,57,F,1,Sã�Ly,South African Fur Seal,10,16,Air,N/A,10C to 20C in water and 5C to 30C on land
-0.342,1.756,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,2.197859873,57,F,1,Sã�Ly,South African Fur Seal,10,10,Air,N/A,10C to 20C in water and 5C to 30C on land
-0.58,1.74,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.801893963,55,F,1,Sã�Ly,South African Fur Seal,10,25,Air,N/A,10C to 20C in water and 5C to 30C on land
-0.699,1.756,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,5.00034535,57,F,2,Sã�Ly,South African Fur Seal,10,4.1,Water,N/A,10C to 20C in water and 5C to 30C on land
+0.301,1.756,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,1.99986187,57,F,1,Sãly,South African Fur Seal,10,8,Air,N/A,10C to 20C in water and 5C to 30C on land
+0.255,1.756,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,1.798870915,57,F,1,Sãly,South African Fur Seal,10,16,Air,N/A,10C to 20C in water and 5C to 30C on land
+0.342,1.756,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,2.197859873,57,F,1,Sãly,South African Fur Seal,10,10,Air,N/A,10C to 20C in water and 5C to 30C on land
+0.58,1.74,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.801893963,55,F,1,Sãly,South African Fur Seal,10,25,Air,N/A,10C to 20C in water and 5C to 30C on land
+0.699,1.756,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,5.00034535,57,F,2,Sãly,South African Fur Seal,10,4.1,Water,N/A,10C to 20C in water and 5C to 30C on land
 0.732,1.839,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,5.395106225,69,F,2,Stella,South African Fur Seal,10,7,Air,N/A,10C to 20C in water and 5C to 30C on land
 0.38,1.839,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,2.398832919,69,F,1,Stella,South African Fur Seal,10,8,Air,N/A,10C to 20C in water and 5C to 30C on land
 0.415,1.839,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,2.600159563,69,F,1,Stella,South African Fur Seal,10,16,Air,N/A,10C to 20C in water and 5C to 30C on land
@@ -1209,27 +1209,27 @@ log_fr,log_Mb,habitat,order,family,genus,species,breath_rate,body_mass,sex,activ
 -0.398,3.217,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,1650,F,1,Africa,Manatee,6,27,Water,N/A,20C to 30C
 -0.398,3.217,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,1650,F,1,Africa,Manatee,6,27.2,Water,N/A,20C to 30C
 -0.398,3.217,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,1650,F,1,Africa,Manatee,6,27.4,Water,N/A,20C to 30C
--0.398,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,250,F,2,Bombã�N,Manatee,7,31.4,Water,N/A,20C to 30C
--0.699,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.199986187,250,F,2,Bombã�N,Manatee,7,31.5,Water,N/A,20C to 30C
--0.699,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.199986187,250,F,1,Bombã�N,Manatee,7,31.6,Water,N/A,20C to 30C
--0.398,2.477,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,300,M,1,Cã�Sar,Manatee,16,31.1,Water,N/A,20C to 30C
--0.097,2.477,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.799834255,300,M,2,Cã�Sar,Manatee,16,31.3,Water,N/A,20C to 30C
--0.398,2.477,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,300,M,2,Cã�Sar,Manatee,16,31.3,Water,N/A,20C to 30C
+-0.398,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,250,F,2,Bombãn,Manatee,7,31.4,Water,N/A,20C to 30C
+-0.699,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.199986187,250,F,2,Bombãn,Manatee,7,31.5,Water,N/A,20C to 30C
+-0.699,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.199986187,250,F,1,Bombãn,Manatee,7,31.6,Water,N/A,20C to 30C
+-0.398,2.477,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,300,M,1,Cãsar,Manatee,16,31.1,Water,N/A,20C to 30C
+-0.097,2.477,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.799834255,300,M,2,Cãsar,Manatee,16,31.3,Water,N/A,20C to 30C
+-0.398,2.477,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,300,M,2,Cãsar,Manatee,16,31.3,Water,N/A,20C to 30C
 -0.097,3.217,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.799834255,1650,F,1,Conchis,Manatee,9,27,Water,N/A,20C to 30C
 -0.222,3.217,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.599791076,1650,F,2,Conchis,Manatee,9,27.2,Water,N/A,20C to 30C
 -0.222,3.217,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.599791076,1650,F,1,Conchis,Manatee,9,27.4,Water,N/A,20C to 30C
 -0.398,2.699,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,500,F,2,Dorothy,Manatee,20,31.4,Water,N/A,20C to 30C
 -0.222,2.699,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.599791076,500,F,2,Dorothy,Manatee,20,31.5,Water,N/A,20C to 30C
 -0.699,2.699,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.199986187,500,F,1,Dorothy,Manatee,20,31.6,Water,N/A,20C to 30C
--0.699,2.477,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.199986187,300,M,1,Fabiã�N,Manatee,23,31.1,Water,N/A,20C to 30C
--0.222,2.477,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.599791076,300,M,2,Fabiã�N,Manatee,23,31.3,Water,N/A,20C to 30C
--0.699,2.477,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.199986187,300,M,2,Fabiã�N,Manatee,23,31.3,Water,N/A,20C to 30C
+-0.699,2.477,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.199986187,300,M,1,Fabiãn,Manatee,23,31.1,Water,N/A,20C to 30C
+-0.222,2.477,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.599791076,300,M,2,Fabiãn,Manatee,23,31.3,Water,N/A,20C to 30C
+-0.699,2.477,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.199986187,300,M,2,Fabiãn,Manatee,23,31.3,Water,N/A,20C to 30C
 -0.398,2.778,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,600,F,1,Julietas,Manatee,22,31.4,Water,N/A,20C to 30C
 -0.398,2.778,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,600,F,2,Julietas,Manatee,22,31.5,Water,N/A,20C to 30C
 -0.699,2.778,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.199986187,600,F,2,Julietas,Manatee,22,31.6,Water,N/A,20C to 30C
--0.097,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.799834255,250,F,2,Michelã�N,Manatee,5,31.4,Water,N/A,20C to 30C
-0.079,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,1.199499303,250,F,2,Michelã�N,Manatee,5,31.5,Water,N/A,20C to 30C
--0.398,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,250,F,1,Michelã�N,Manatee,5,31.6,Water,N/A,20C to 30C
+-0.097,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.799834255,250,F,2,Michelãn,Manatee,5,31.4,Water,N/A,20C to 30C
+0.079,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,1.199499303,250,F,2,Michelãn,Manatee,5,31.5,Water,N/A,20C to 30C
+-0.398,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,250,F,1,Michelãn,Manatee,5,31.6,Water,N/A,20C to 30C
 -0.398,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,250,M,1,Quijote,Manatee,15,31.1,Water,N/A,20C to 30C
 -0.796,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.159955803,250,M,1,Quijote,Manatee,15,31.3,Water,N/A,20C to 30C
 -0.398,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,250,M,2,Quijote,Manatee,15,31.3,Water,N/A,20C to 30C

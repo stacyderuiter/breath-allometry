@@ -66,14 +66,18 @@ breath_data <- read_csv('data/breath-rate-FINAL.csv',
 breath_data <- breath_data |>
   select(log_fr, log_Mb, habitat, order, family, genus, species,
          breath_rate, body_mass, sex, 
-         activity_level, individual_name, common_name, age, temp, location) |>
-  mutate(across(where(is.character), function(x) str_remove_all(x, pattern = fixed('\xc2')))) |>
-  mutate(across(where(is.character), function(x) str_remove_all(x, pattern = fixed('\xa0')))) |>
+         activity_level, individual_name, common_name, age, temp, location,
+         `Thermoneutral range`, `Normal temperature range`) |>
+  mutate(across(c(order, family, genus, individual_name), 
+         function(x) str_replace_all(x, "[^[:alnum:]]", ""))) |>
+  mutate(across(c(species, common_name), 
+         function(x) str_replace_all(x, "[^[:alnum:]]", " "))) |>
   mutate(common_name = ifelse(species == "orca", "Killer Whale", common_name)) |>
   mutate(across(c(individual_name, common_name, habitat, location), str_to_title)) |>
   mutate(common_name = str_replace_all(common_name, pattern = "Harbour", replacement = "Harbor")) |>
   mutate(common_name = str_replace_all(common_name, pattern = "Sabel", replacement = "Sable")) |>
   mutate(common_name = str_replace_all(common_name, pattern = "Giraff", replacement = "Giraffe")) |>
+  mutate(common_name = str_replace_all(common_name, pattern = "Giraffee", replacement = "Giraffe")) |>
   mutate(common_name = str_replace_all(common_name, pattern = "Asiatisk", replacement = "Asian")) |>
   mutate(common_name = ifelse(common_name == "Brown Fur Seal", "South African Fur Seal", common_name)) |>
   mutate(activity_level = factor(activity_level),
