@@ -172,6 +172,19 @@ slope_comparison <- emtrends(breath_model,
 slope_comparison
 ```
 
+```{r}
+slope_comparison$emtrends |> data.frame() |>
+  rename(Habitat = habitat,
+         `log(Mass (kg)) Trend` = `log_Mb.trend`) |>
+  mutate(across(where(is.numeric), function(x) round(x, digits = 3))) |>
+  mutate(`95% CI` = paste0("(", lower.CL, ", ", upper.CL, ")")) |>
+  select(Habitat, `log(Mass (kg)) Trend`, SE, df, `95% CI`) |>
+  flextable::flextable()
+
+plot(slope_comparison$emtrends) +
+  labs(x = "log(Mass (kg)) Trend", y = "Habitat")
+```
+
 The top part of the output gives a slope for each habitat with CIs. The lower "contrasts" part is where we'll focus now: it gives the p-values for the tests comparing each pair of habitats.
 
 We have moderate evidence that terrestrial habitats are different from the others. But we have no evidence that the slopes are different between aquatic and semiaquatic.
