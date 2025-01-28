@@ -1,7 +1,7 @@
 ---
 title: "Allometry of Mammalian Breathing Rates"
 author: "Elliot Stielstra, Ethan Wilstermann, Simon Rylaarsdam, Stacy DeRuiter, Andreas Fahlman"
-date: "January 2025"
+date: "last-modified"
 format:
   html:
     embed-resources: true
